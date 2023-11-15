@@ -4,7 +4,7 @@
 1. The Fool
 2. The Magician
 3. The High Priestess![The High Priestess](the-high-priestess.webp)
-4. The Empress
+4. The Empress![The Empress](the-empress.webp)
 5. The Emperor![The Emperor](the-emperor.webp)
 6. The Hierophant
 7. The Lover![The Lover](the-lover.webp)
@@ -14,10 +14,10 @@
 11. Wheel of Fortune
 12. Justice
 13. The Hanged Man
-14. Death
+14. Death![Death](the-death.webp)
 15. Temperance
 16. The Devil
-17. The Tower
+17. The Tower![The Tower](the-tower.webp)
 18. The Star
 19. The Moon
 20. The Sun
