@@ -6,7 +6,7 @@
 3. The High Priestess![The High Priestess](the-high-priestess.webp)
 4. The Empress![The Empress](the-empress.webp)
 5. The Emperor![The Emperor](the-emperor.webp)
-6. The Hierophant
+6. The Hierophant![The Hierophant](the-hierophant.webp)
 7. The Lover![The Lover](the-lover.webp)
 8. The Chariot
 9. Strength
