@@ -3,11 +3,11 @@
 ## Major Arcana (22 cards)
 1. The Fool
 2. The Magician
-3. ![The High Priestess](the-high-priestess.webp)
+3. The High Priestess![The High Priestess](the-high-priestess.webp)
 4. The Empress
-5. ![The Emperor](the-emperor.webp)
+5. The Emperor![The Emperor](the-emperor.webp)
 6. The Hierophant
-7. ![The Lover](the-lover.webp)
+7. The Lover![The Lover](the-lover.webp)
 8. The Chariot
 9. Strength
 10. The Hermit
