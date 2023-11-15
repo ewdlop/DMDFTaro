@@ -1,8 +1,8 @@
 # DM-DF Taro
 
 ## Major Arcana (22 cards)
-1. The Fool
-2. The Magician
+1. The Fool![The Foool](the-fool.webp)
+2. The Magician![The Magician](the-magician.webp)
 3. The High Priestess![The High Priestess](the-high-priestess.webp)
 4. The Empress![The Empress](the-empress.webp)
 5. The Emperor![The Emperor](the-emperor.webp)
