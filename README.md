@@ -15,8 +15,8 @@
 12. Justice
 13. The Hanged Man
 14. Death![Death](the-death.webp)
-15. Temperance
-16. The Devil
+15. Temperance![Temperance](the-temperance.webp)
+16. The Devil![The Devil](the-devil.webp)
 17. The Tower![The Tower](the-tower.webp)
 18. The Star
 19. The Moon
